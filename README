@@ -1,1 +1,1 @@
-Download taglib sources from http://developer.kde.org/~wheeler/taglib.html and rename the unpacked folder to 'taglib-src'
+TagLib wrapper for MacRuby. Currently it only fetches song title, artist name and album name.
